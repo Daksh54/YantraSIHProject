@@ -1,0 +1,291 @@
+{
+  "yantra_type": "dhruva_protha_chakra",
+  "latitude": 28.497399,
+  "longitude": 77.032938,
+  "scale_m": 4.0,
+  "observation_date": "2025-09-22",
+  "observation_time": "22:21",
+  "local_sidereal_time_hours": 2.0319,
+  "polaris_data": {
+    "right_ascension_hours": 2.53,
+    "declination_deg": 89.268,
+    "altitude_deg": 29.22,
+    "azimuth_deg": 0.11,
+    "hour_angle_hours": -0.498,
+    "position_x_m": 0.005,
+    "position_y_m": 2.701
+  },
+  "components": {
+    "yantra": {
+      "radius_m": 4.0
+    },
+    "central_pole": {
+      "height_m": 4.8,
+      "tilt_deg": 28.497399
+    },
+    "inner_circle": {
+      "radius_m": 0.4
+    },
+    "declination_circles": [
+      {
+        "declination_deg": 30,
+        "radius_m": 2.6666666666666665
+      },
+      {
+        "declination_deg": 45,
+        "radius_m": 2.0
+      },
+      {
+        "declination_deg": 60,
+        "radius_m": 1.3333333333333333
+      },
+      {
+        "declination_deg": 75,
+        "radius_m": 0.6666666666666666
+      },
+      {
+        "declination_deg": 85,
+        "radius_m": 0.2222222222222222
+      }
+    ],
+    "hour_angle_lines": [
+      {
+        "hour": 0,
+        "sidereal_hour": 0.0,
+        "angle_deg": -90
+      },
+      {
+        "hour": 1,
+        "sidereal_hour": 0.997,
+        "angle_deg": -75
+      },
+      {
+        "hour": 2,
+        "sidereal_hour": 1.995,
+        "angle_deg": -60
+      },
+      {
+        "hour": 3,
+        "sidereal_hour": 2.992,
+        "angle_deg": -45
+      },
+      {
+        "hour": 4,
+        "sidereal_hour": 3.989,
+        "angle_deg": -30
+      },
+      {
+        "hour": 5,
+        "sidereal_hour": 4.986,
+        "angle_deg": -15
+      },
+      {
+        "hour": 6,
+        "sidereal_hour": 5.984,
+        "angle_deg": 0
+      },
+      {
+        "hour": 7,
+        "sidereal_hour": 6.981,
+        "angle_deg": 15
+      },
+      {
+        "hour": 8,
+        "sidereal_hour": 7.978,
+        "angle_deg": 30
+      },
+      {
+        "hour": 9,
+        "sidereal_hour": 8.975,
+        "angle_deg": 45
+      },
+      {
+        "hour": 10,
+        "sidereal_hour": 9.973,
+        "angle_deg": 60
+      },
+      {
+        "hour": 11,
+        "sidereal_hour": 10.97,
+        "angle_deg": 75
+      },
+      {
+        "hour": 12,
+        "sidereal_hour": 11.967,
+        "angle_deg": 90
+      },
+      {
+        "hour": 13,
+        "sidereal_hour": 12.965,
+        "angle_deg": 105
+      },
+      {
+        "hour": 14,
+        "sidereal_hour": 13.962,
+        "angle_deg": 120
+      },
+      {
+        "hour": 15,
+        "sidereal_hour": 14.959,
+        "angle_deg": 135
+      },
+      {
+        "hour": 16,
+        "sidereal_hour": 15.956,
+        "angle_deg": 150
+      },
+      {
+        "hour": 17,
+        "sidereal_hour": 16.954,
+        "angle_deg": 165
+      },
+      {
+        "hour": 18,
+        "sidereal_hour": 17.951,
+        "angle_deg": 180
+      },
+      {
+        "hour": 19,
+        "sidereal_hour": 18.948,
+        "angle_deg": 195
+      },
+      {
+        "hour": 20,
+        "sidereal_hour": 19.945,
+        "angle_deg": 210
+      },
+      {
+        "hour": 21,
+        "sidereal_hour": 20.943,
+        "angle_deg": 225
+      },
+      {
+        "hour": 22,
+        "sidereal_hour": 21.94,
+        "angle_deg": 240
+      },
+      {
+        "hour": 23,
+        "sidereal_hour": 22.937,
+        "angle_deg": 255
+      }
+    ]
+  },
+  "visible_stars": [
+    {
+      "name": "Dubhe",
+      "constellation": "UMa",
+      "magnitude": 1.8,
+      "altitude_deg": 7.12,
+      "azimuth_deg": 19.55,
+      "x_pos_m": 1.233,
+      "y_pos_m": 3.471
+    },
+    {
+      "name": "Merak",
+      "constellation": "UMa",
+      "magnitude": 2.4,
+      "altitude_deg": 3.06,
+      "azimuth_deg": 23.09,
+      "x_pos_m": 1.515,
+      "y_pos_m": 3.555
+    },
+    {
+      "name": "Schedar",
+      "constellation": "Cas",
+      "magnitude": 2.2,
+      "altitude_deg": 58.47,
+      "azimuth_deg": 338.49,
+      "x_pos_m": -0.514,
+      "y_pos_m": 1.304
+    },
+    {
+      "name": "Caph",
+      "constellation": "Cas",
+      "magnitude": 2.3,
+      "altitude_deg": 53.79,
+      "azimuth_deg": 335.8,
+      "x_pos_m": -0.66,
+      "y_pos_m": 1.468
+    },
+    {
+      "name": "Gamma Cas",
+      "constellation": "Cas",
+      "magnitude": 2.5,
+      "altitude_deg": 55.97,
+      "azimuth_deg": 345.8,
+      "x_pos_m": -0.371,
+      "y_pos_m": 1.466
+    },
+    {
+      "name": "Ruchbah",
+      "constellation": "Cas",
+      "magnitude": 2.7,
+      "altitude_deg": 57.68,
+      "azimuth_deg": 351.62,
+      "x_pos_m": -0.209,
+      "y_pos_m": 1.421
+    },
+    {
+      "name": "Segin",
+      "constellation": "Cas",
+      "magnitude": 3.4,
+      "altitude_deg": 54.81,
+      "azimuth_deg": 358.55,
+      "x_pos_m": -0.04,
+      "y_pos_m": 1.564
+    },
+    {
+      "name": "Thuban",
+      "constellation": "Dra",
+      "magnitude": 3.7,
+      "altitude_deg": 2.87,
+      "azimuth_deg": 359.73,
+      "x_pos_m": -0.018,
+      "y_pos_m": 3.872
+    },
+    {
+      "name": "Etamin",
+      "constellation": "Dra",
+      "magnitude": 2.2,
+      "altitude_deg": 5.09,
+      "azimuth_deg": 327.73,
+      "x_pos_m": -2.015,
+      "y_pos_m": 3.191
+    },
+    {
+      "name": "Rastaban",
+      "constellation": "Dra",
+      "magnitude": 2.8,
+      "altitude_deg": 2.73,
+      "azimuth_deg": 331.1,
+      "x_pos_m": -1.874,
+      "y_pos_m": 3.396
+    },
+    {
+      "name": "Alderamin",
+      "constellation": "Cep",
+      "magnitude": 2.4,
+      "altitude_deg": 33.81,
+      "azimuth_deg": 328.44,
+      "x_pos_m": -1.307,
+      "y_pos_m": 2.128
+    },
+    {
+      "name": "Alfirk",
+      "constellation": "Cep",
+      "magnitude": 3.2,
+      "altitude_deg": 33.91,
+      "azimuth_deg": 338.12,
+      "x_pos_m": -0.929,
+      "y_pos_m": 2.313
+    }
+  ],
+  "astronomical_data": {
+    "days_since_J2000": 9396.43,
+    "greenwich_mean_sidereal_time": 20.8964,
+    "local_sidereal_time": 2.0319,
+    "precession_correction_deg": 0.0036,
+    "visible_circumpolar_stars": 12
+  }
+}

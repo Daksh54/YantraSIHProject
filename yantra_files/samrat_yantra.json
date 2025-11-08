@@ -1,0 +1,19 @@
+{
+  "yantra_type": "samrat",
+  "latitude": 11.1156792,
+  "longitude": 77.3718245,
+  "scale_m": 5.0,
+  "date": "2025-09-23",
+  "solar_time_highlighted": "11:47",
+  "components": {
+    "platform": {
+      "radius_m": 5.0
+    },
+    "gnomon": {
+      "height_m": 5.0,
+      "tilt_deg": 11.1156792
+    },
+    "hour_lines": [
+      {
+        "time": "06:00",
+        "t": 

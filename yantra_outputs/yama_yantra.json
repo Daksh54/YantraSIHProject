@@ -1,0 +1,28 @@
+{
+  "yantra_type": "yama",
+  "latitude": 28.6139,
+  "longitude": 77.209,
+  "scale_m": 3.0,
+  "observation_date": "2025-09-22",
+  "observation_time": "22:31",
+  "local_sidereal_time": 2.3779,
+  "solar_data": {
+    "altitude_deg": -52.74,
+    "azimuth_deg": 314.21,
+    "declination_deg": -0.61,
+    "hour_angle_deg": 154.28,
+    "equation_of_time_min": 7.27
+  },
+  "components": {
+    "yantra": {
+      "radius_m": 3.0
+    },
+    "central_pillar": {
+      "height_m": 4.5
+    },
+    "base_thickness": {
+      "thickness_m": 0.30000000000000004
+    },
+    "altitude_scale": [
+      {
+        "altitude_deg": 

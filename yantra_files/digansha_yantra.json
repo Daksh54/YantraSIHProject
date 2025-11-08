@@ -1,0 +1,476 @@
+{
+  "yantra_type": "digansha",
+  "latitude": 11.1156792,
+  "longitude": 77.3718245,
+  "scale_m": 5.0,
+  "observation_date": "2025-09-23",
+  "observation_time": "12:03",
+  "magnetic_declination_deg": -1.47,
+  "solar_data": {
+    "altitude_deg": 77.63,
+    "azimuth_deg": 168.41,
+    "declination_deg": -1.01,
+    "hour_angle_deg": -2.47,
+    "equation_of_time_min": 7.64,
+    "direction": "SbE"
+  },
+  "shadow_data": {
+    "shadow_azimuth_deg": 348.41,
+    "shadow_length_m": 0.33,
+    "gnomon_height_m": 1.5
+  },
+  "components": {
+    "yantra": {
+      "radius_m": 5.0
+    },
+    "inner_compass": {
+      "radius_m": 4.0
+    },
+    "central_post": {
+      "radius_m": 0.1
+    },
+    "direction_lines": {
+      "radius_m": 4.5
+    }
+  },
+  "direction_systems": {
+    "compass_directions": [
+      {
+        "name": "N",
+        "angle_deg": 0,
+        "type": "cardinal",
+        "full_name": "North"
+      },
+      {
+        "name": "E",
+        "angle_deg": 90,
+        "type": "cardinal",
+        "full_name": "East"
+      },
+      {
+        "name": "S",
+        "angle_deg": 180,
+        "type": "cardinal",
+        "full_name": "South"
+      },
+      {
+        "name": "W",
+        "angle_deg": 270,
+        "type": "cardinal",
+        "full_name": "West"
+      },
+      {
+        "name": "NE",
+        "angle_deg": 45,
+        "type": "intercardinal",
+        "full_name": "Northeast"
+      },
+      {
+        "name": "SE",
+        "angle_deg": 135,
+        "type": "intercardinal",
+        "full_name": "Southeast"
+      },
+      {
+        "name": "SW",
+        "angle_deg": 225,
+        "type": "intercardinal",
+        "full_name": "Southwest"
+      },
+      {
+        "name": "NW",
+        "angle_deg": 315,
+        "type": "intercardinal",
+        "full_name": "Northwest"
+      },
+      {
+        "name": "NNE",
+        "angle_deg": 22.5,
+        "type": "half-wind",
+        "full_name": "North-northeast"
+      },
+      {
+        "name": "ENE",
+        "angle_deg": 67.5,
+        "type": "half-wind",
+        "full_name": "East-northeast"
+      },
+      {
+        "name": "ESE",
+        "angle_deg": 112.5,
+        "type": "half-wind",
+        "full_name": "East-southeast"
+      },
+      {
+        "name": "SSE",
+        "angle_deg": 157.5,
+        "type": "half-wind",
+        "full_name": "South-southeast"
+      },
+      {
+        "name": "SSW",
+        "angle_deg": 202.5,
+        "type": "half-wind",
+        "full_name": "South-southwest"
+      },
+      {
+        "name": "WSW",
+        "angle_deg": 247.5,
+        "type": "half-wind",
+        "full_name": "West-southwest"
+      },
+      {
+        "name": "WNW",
+        "angle_deg": 292.5,
+        "type": "half-wind",
+        "full_name": "West-northwest"
+      },
+      {
+        "name": "NNW",
+        "angle_deg": 337.5,
+        "type": "half-wind",
+        "full_name": "North-northwest"
+      },
+      {
+        "name": "NbE",
+        "angle_deg": 11.25,
+        "type": "quarter-wind",
+        "full_name": "North by East"
+      },
+      {
+        "name": "NEbN",
+        "angle_deg": 33.75,
+        "type": "quarter-wind",
+        "full_name": "Northeast by North"
+      },
+      {
+        "name": "NEbE",
+        "angle_deg": 56.25,
+        "type": "quarter-wind",
+        "full_name": "Northeast by East"
+      },
+      {
+        "name": "EbN",
+        "angle_deg": 78.75,
+        "type": "quarter-wind",
+        "full_name": "East by North"
+      },
+      {
+        "name": "EbS",
+        "angle_deg": 101.25,
+        "type": "quarter-wind",
+        "full_name": "East by South"
+      },
+      {
+        "name": "SEbE",
+        "angle_deg": 123.75,
+        "type": "quarter-wind",
+        "full_name": "Southeast by East"
+      },
+      {
+        "name": "SEbS",
+        "angle_deg": 146.25,
+        "type": "quarter-wind",
+        "full_name": "Southeast by South"
+      },
+      {
+        "name": "SbE",
+        "angle_deg": 168.75,
+        "type": "quarter-wind",
+        "full_name": "South by East"
+      },
+      {
+        "name": "SbW",
+        "angle_deg": 191.25,
+        "type": "quarter-wind",
+        "full_name": "South by West"
+      },
+      {
+        "name": "SWbS",
+        "angle_deg": 213.75,
+        "type": "quarter-wind",
+        "full_name": "Southwest by South"
+      },
+      {
+        "name": "SWbW",
+        "angle_deg": 236.25,
+        "type": "quarter-wind",
+        "full_name": "Southwest by West"
+      },
+      {
+        "name": "WbS",
+        "angle_deg": 258.75,
+        "type": "quarter-wind",
+        "full_name": "West by South"
+      },
+      {
+        "name": "WbN",
+        "angle_deg": 281.25,
+        "type": "quarter-wind",
+        "full_name": "West by North"
+      },
+      {
+        "name": "NWbW",
+        "angle_deg": 303.75,
+        "type": "quarter-wind",
+        "full_name": "Northwest by West"
+      },
+      {
+        "name": "NWbN",
+        "angle_deg": 326.25,
+        "type": "quarter-wind",
+        "full_name": "Northwest by North"
+      },
+      {
+        "name": "NbW",
+        "angle_deg": 348.75,
+        "type": "quarter-wind",
+        "full_name": "North by West"
+      }
+    ],
+    "vedic_directions": [
+      {
+        "sanskrit_name": "\u0909\u0924\u094d\u0924\u0930 (Uttar)",
+        "english_name": "North",
+        "angle_deg": 0,
+        "deity": "Kubera",
+        "element": "Earth"
+      },
+      {
+        "sanskrit_name": "\u0908\u0936\u093e\u0928 (Ishan)",
+        "english_name": "Northeast",
+        "angle_deg": 45,
+        "deity": "Shiva",
+        "element": "Water"
+      },
+      {
+        "sanskrit_name": "\u092a\u0942\u0930\u094d\u0935 (Purva)",
+        "english_name": "East",
+        "angle_deg": 90,
+        "deity": "Indra",
+        "element": "Air"
+      },
+      {
+        "sanskrit_name": "\u0906\u0917\u094d\u0928\u0947\u092f (Agneya)",
+        "english_name": "Southeast",
+        "angle_deg": 135,
+        "deity": "Agni",
+        "element": "Fire"
+      },
+      {
+        "sanskrit_name": "\u0926\u0915\u094d\u0937\u093f\u0923 (Dakshin)",
+        "english_name": "South",
+        "angle_deg": 180,
+        "deity": "Yama",
+        "element": "Fire"
+      },
+      {
+        "sanskrit_name": "\u0928\u0948\u090b\u0924\u094d\u092f (Nairitya)",
+        "english_name": "Southwest",
+        "angle_deg": 225,
+        "deity": "Nirriti",
+        "element": "Earth"
+      },
+      {
+        "sanskrit_name": "\u092a\u0936\u094d\u091a\u093f\u092e (Paschim)",
+        "english_name": "West",
+        "angle_deg": 270,
+        "deity": "Varuna",
+        "element": "Water"
+      },
+      {
+        "sanskrit_name": "\u0935\u093e\u092f\u0935\u094d\u092f (Vayavya)",
+        "english_name": "Northwest",
+        "angle_deg": 315,
+        "deity": "Vayu",
+        "element": "Air"
+      }
+    ]
+  },
+  "azimuth_scale": [
+    {
+      "angle_deg": 0,
+      "type": "major",
+      "label": "0\u00b0"
+    },
+    {
+      "angle_deg": 10,
+      "type": "major",
+      "label": "10\u00b0"
+    },
+    {
+      "angle_deg": 20,
+      "type": "major",
+      "label": "20\u00b0"
+    },
+    {
+      "angle_deg": 30,
+      "type": "major",
+      "label": "30\u00b0"
+    },
+    {
+      "angle_deg": 40,
+      "type": "major",
+      "label": "40\u00b0"
+    },
+    {
+      "angle_deg": 50,
+      "type": "major",
+      "label": "50\u00b0"
+    },
+    {
+      "angle_deg": 60,
+      "type": "major",
+      "label": "60\u00b0"
+    },
+    {
+      "angle_deg": 70,
+      "type": "major",
+      "label": "70\u00b0"
+    },
+    {
+      "angle_deg": 80,
+      "type": "major",
+      "label": "80\u00b0"
+    },
+    {
+      "angle_deg": 90,
+      "type": "major",
+      "label": "90\u00b0"
+    },
+    {
+      "angle_deg": 100,
+      "type": "major",
+      "label": "100\u00b0"
+    },
+    {
+      "angle_deg": 110,
+      "type": "major",
+      "label": "110\u00b0"
+    },
+    {
+      "angle_deg": 120,
+      "type": "major",
+      "label": "120\u00b0"
+    },
+    {
+      "angle_deg": 130,
+      "type": "major",
+      "label": "130\u00b0"
+    },
+    {
+      "angle_deg": 140,
+      "type": "major",
+      "label": "140\u00b0"
+    },
+    {
+      "angle_deg": 150,
+      "type": "major",
+      "label": "150\u00b0"
+    },
+    {
+      "angle_deg": 160,
+      "type": "major",
+      "label": "160\u00b0"
+    },
+    {
+      "angle_deg": 170,
+      "type": "major",
+      "label": "170\u00b0"
+    },
+    {
+      "angle_deg": 180,
+      "type": "major",
+      "label": "180\u00b0"
+    },
+    {
+      "angle_deg": 190,
+      "type": "major",
+      "label": "190\u00b0"
+    },
+    {
+      "angle_deg": 200,
+      "type": "major",
+      "label": "200\u00b0"
+    },
+    {
+      "angle_deg": 210,
+      "type": "major",
+      "label": "210\u00b0"
+    },
+    {
+      "angle_deg": 220,
+      "type": "major",
+      "label": "220\u00b0"
+    },
+    {
+      "angle_deg": 230,
+      "type": "major",
+      "label": "230\u00b0"
+    },
+    {
+      "angle_deg": 240,
+      "type": "major",
+      "label": "240\u00b0"
+    },
+    {
+      "angle_deg": 250,
+      "type": "major",
+      "label": "250\u00b0"
+    },
+    {
+      "angle_deg": 260,
+      "type": "major",
+      "label": "260\u00b0"
+    },
+    {
+      "angle_deg": 270,
+      "type": "major",
+      "label": "270\u00b0"
+    },
+    {
+      "angle_deg": 280,
+      "type": "major",
+      "label": "280\u00b0"
+    },
+    {
+      "angle_deg": 290,
+      "type": "major",
+      "label": "290\u00b0"
+    },
+    {
+      "angle_deg": 300,
+      "type": "major",
+      "label": "300\u00b0"
+    },
+    {
+      "angle_deg": 310,
+      "type": "major",
+      "label": "310\u00b0"
+    },
+    {
+      "angle_deg": 320,
+      "type": "major",
+      "label": "320\u00b0"
+    },
+    {
+      "angle_deg": 330,
+      "type": "major",
+      "label": "330\u00b0"
+    },
+    {
+      "angle_deg": 340,
+      "type": "major",
+      "label": "340\u00b0"
+    },
+    {
+      "angle_deg": 350,
+      "type": "major",
+      "label": "350\u00b0"
+    }
+  ],
+  "measurements": {
+    "precision_deg": 1.0,
+    "azimuth_range": "0-360 degrees",
+    "magnetic_correction_available": true,
+    "shadow_measurement_available": 
